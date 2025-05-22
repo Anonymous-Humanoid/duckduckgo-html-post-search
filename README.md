@@ -7,4 +7,4 @@ See also the DuckDuckGo Lite Search extension by Andis Spriņķis, which also av
 the redirect, but using the minimal "Lite" layout.
 
 Available for
-- Mozilla Firefox: https://addons.mozilla.org/en-US/firefox/addon/ddg-html-search-provider/
+- [Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-html-search-post/)
